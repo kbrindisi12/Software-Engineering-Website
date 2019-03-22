@@ -1,0 +1,55 @@
+body {
+	background-image:  url("../apples.jpg");
+}
+
+.jumbotron {
+    background-color: black;
+    background-size: 100%;
+    font: "Times New Roman";
+    font-weight: 600;
+    font-size: large;
+    color:white;
+    text-align: center;}
+
+.jumbotron h1 {
+  font-size: 50px;
+}
+
+.carousel {
+  width:600px;
+  height:450px;
+  text-align: center;
+}
+
+.card {
+    height: 350px;
+    width: 275x;
+    text-align: center;
+}
+
+
+main {
+	background-color: whitesmoke;
+    padding-bottom: 10px;
+    
+}
+
+header {
+	margin: 12px;
+}
+
+nav{
+  background-color: black;
+}
+
+aside {
+	margin: 12px 0;
+}
+
+footer {
+    text-align: center;
+    padding-top: 5px;
+	color: black;
+    background-color: lightgray;
+    clear:left;
+}
